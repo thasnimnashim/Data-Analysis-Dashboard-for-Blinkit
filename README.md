@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard-for-Blinkit
-I have developed a comprehensive project ,creating multiple dashboards to anayze the data. This process involved several stages, including data processing,data cleaning and data visualization.
+# Blinkit-Data-Analysis-Dashboard
+# Project Objective
+The objective of the Blinkit PowerBI project is to analyze business performance, customer behavior, and operational efficiency to provide actionable insights for strategic decision-making.
