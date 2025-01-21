@@ -15,3 +15,4 @@ The objective of the Blinkit PowerBI project is to analyze business performance,
 7. **Top-Selling Products** – Most frequently ordered items.  
 8. **Peak Order Hours** – Time periods with the highest order volume.  
 9. **Store Performance** – Comparison of sales and efficiency across different store locations.  
+## Dashboard Interaction <a href="https://github.com/thasnimnashim/Data-Analysis-Dashboard-for-Blinkit/blob/main/Blinkit%20Data%20Visualization.png"> View Dashboard </a>
