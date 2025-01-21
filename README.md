@@ -65,4 +65,6 @@ The objective of the Blinkit PowerBI project is to analyze business performance,
 
 ---
 
-## Conclusion  
+## Dashboard
+![Blinkit Data Visualization](https://github.com/user-attachments/assets/d6839ec7-5778-4643-8a53-21ed1c458cd2)
+
