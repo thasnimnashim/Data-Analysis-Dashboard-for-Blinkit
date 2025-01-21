@@ -16,3 +16,53 @@ The objective of the Blinkit PowerBI project is to analyze business performance,
 8. **Peak Order Hours** – Time periods with the highest order volume.  
 9. **Store Performance** – Comparison of sales and efficiency across different store locations.  
 ## Dashboard Interaction <a href="https://github.com/thasnimnashim/Data-Analysis-Dashboard-for-Blinkit/blob/main/Blinkit%20Data%20Visualization.png"> View Dashboard </a>
+## Project Process  
+
+### 1. **Data Collection**  
+- Gather raw data from Blinkit's business operations (orders, deliveries, customers, etc.).  
+- Data sources include databases, Excel files, and APIs.  
+
+### 2. **Data Cleaning & Transformation**  
+- Handle missing values and inconsistencies.  
+- Perform data normalization and formatting.  
+- Transform data using Power Query to prepare for analysis.  
+
+### 3. **Data Modeling**  
+- Create relationships between tables (orders, customers, products, etc.).  
+- Implement calculated columns and measures using DAX (Data Analysis Expressions).  
+- Optimize data models for performance.  
+
+### 4. **KPI Definition & Calculation**  
+- Define key performance indicators (KPIs) such as total orders, revenue, and customer retention.  
+- Develop calculated fields and measures to track KPIs accurately.  
+
+### 5. **Dashboard Design & Visualization**  
+- Build interactive Power BI dashboards with charts, tables, and slicers.  
+- Ensure intuitive design for stakeholders to explore insights easily.  
+- Use best practices for visual hierarchy and storytelling.  
+
+### 6. **Analysis & Insights**  
+- Identify trends and patterns in customer behavior and operational efficiency.  
+- Provide actionable recommendations based on findings.  
+
+### 7. **Report Deployment & Sharing**  
+- Publish reports to Power BI Service for access across devices.  
+- Configure data refresh schedules for up-to-date insights.  
+- Share reports with stakeholders via access controls and permissions.  
+
+### 8. **Monitoring & Optimization**  
+- Continuously monitor report performance and data accuracy.  
+- Optimize dashboard performance based on user feedback and data volume changes.  
+- Implement new features and updates as needed.  
+
+---
+
+## Tools Used  
+- **Power BI** – For data visualization and report creation.  
+- **Excel** – For initial data exploration and transformation.  
+- **SQL** – For querying and extracting data.  
+- **DAX** – For creating custom calculations and measures.  
+
+---
+
+## Conclusion  
